@@ -36,7 +36,7 @@ Sou estudante de **Engenharia da Computação** e desenvolvedor apaixonado por t
 
 Aqui estão alguns dos meus projetos recentes:
 
-- [dockerproject](https://github.com/kevinmarques/dockerproject) – Ambiente PHP + MySQL usando Docker  
+- [dockerproject](https://github.com/keevinmarks/Gerenciador_estoque.git) – Ambiente PHP + MySQL usando Docker  
 
 ---
 
@@ -44,7 +44,8 @@ Aqui estão alguns dos meus projetos recentes:
 
 - LinkedIn: [linkedin.com](https://www.linkedin.com/in/kevin-marques-da-silva-98771a363)  
 - Email: kevinsilvacontact2023@gmail.com  
-- Instagram: [@_kevin.marques_]([https://www.instagram.com/_kevin.marques_/])
+- Instagram: [@_kevin.marques_](https://www.instagram.com/_kevin.marques_/)
+
 
 ---
 
