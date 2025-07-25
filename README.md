@@ -1,4 +1,5 @@
 # Olá, eu sou o Kevin Marques 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Engenharia+da+computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 Sou estudante de **Engenharia da Computação** e desenvolvedor apaixonado por tecnologia e inovação, com experiência em **HTML, CSS, JavaScript, PHP, MySQL, C#, C++, Python, Arduino** e uso de **Docker** para construir ambientes escaláveis e práticos.
 
