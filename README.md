@@ -28,8 +28,12 @@ Sou estudante de **Engenharia da Computação** e desenvolvedor apaixonado por t
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /></td>
   </tr>
 </table>
+
 
 ---
 
@@ -37,6 +41,7 @@ Sou estudante de **Engenharia da Computação** e desenvolvedor apaixonado por t
 
 Aqui estão alguns dos meus projetos recentes:
 
+- [Task_React](https://github.com/keevinmarks/React_Task.git) - Projeto ToDo List com React + typescript + tailwindCss
 - [dockerproject](https://github.com/keevinmarks/Gerenciador_estoque.git) – Ambiente PHP + MySQL usando Docker
 - [flappy alien game](https://github.com/keevinmarks/Flappy_Alien.git) - Desenvolvimento de jogos na Unity 
 
