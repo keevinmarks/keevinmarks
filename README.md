@@ -42,7 +42,7 @@ Sou estudante de **Engenharia da Computação** e desenvolvedor apaixonado por t
 
 Aqui estão alguns dos meus projetos recentes:
 
-- [flappy alien game](https://github.com/keevinmarks/LogiTrack_System) - Sistema de logística com React + Express + Postgree
+- [LogiTrack System](https://github.com/keevinmarks/LogiTrack_System) - Sistema de logística com React + Express + Postgree
 - [Task_React](https://github.com/keevinmarks/React_Task.git) - Projeto ToDo List com React + typescript + tailwindCss
 - [dockerproject](https://github.com/keevinmarks/Gerenciador_estoque.git) – Ambiente PHP + MySQL usando Docker
 - [flappy alien game](https://github.com/keevinmarks/Flappy_Alien.git) - Desenvolvimento de jogos na Unity 
